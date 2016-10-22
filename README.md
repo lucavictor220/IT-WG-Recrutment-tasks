@@ -2,7 +2,7 @@
 
 # IT-WG-Recrutment-tasks
 
-Mai jos sunt descrise doua task-uri. Eu le-as numi "Let's do something for fun!". Astfel sunt prezente doua pozitii: developer si designer.
+Mai jos sunt descrise doua task-uri. Eu le-as numi "Let's do something for fun!". Astfel sunt prezente pozitiile: developer si designer.
 
 Va urez succes si astept solutiile pe mail-ul: `lucavictor220@gmail.com`. Just have fun with it!
 
@@ -15,7 +15,7 @@ DL: 30/10/2016
 ### Designer task
 
 Imaginativa ca ati ajuns sa faceti internship la Google! Aceasta in scurt timp vrea sa lanseze un nou proiect care este o platforma de muzica precum este SoundCloud de exemplu.
-Prima ce o sa vada user-ul este "Landing page". Creati o astfel de pagina folosind instrumentele preferate.(ex: PS, AI, Sketch). Ar fi ciotka sa aploadati aici: <https://www.behance.net/> 
+Prima ce o sa vada user-ul este "Landing page". Creati o astfel de pagina folosind instrumentele preferate.(ex: PS, AI, Sketch). Ar fi ciotka sa aploadati aici: <https://www.behance.net/>
 
 ### Programming
 
