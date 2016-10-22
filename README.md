@@ -15,7 +15,7 @@ DL: 30/10/2016
 ### Designer task
 
 Imaginativa ca ati ajuns sa faceti internship la Google! Aceasta in scurt timp vrea sa lanseze un nou proiect care este o platforma de muzica precum este SoundCloud de exemplu.
-Prima ce o sa vada user-ul este "Landing page". Creati o astfel de pagina folosind instrumentele preferate.(ex: PS, AI, Sketch).
+Prima ce o sa vada user-ul este "Landing page". Creati o astfel de pagina folosind instrumentele preferate.(ex: PS, AI, Sketch). Ar fi ciotka sa aploadati aici: <https://www.behance.net/> 
 
 ### Programming
 
