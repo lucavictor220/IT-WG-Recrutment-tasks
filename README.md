@@ -2,7 +2,7 @@
 
 # IT-WG-Recrutment-tasks
 
-Mai jos sunt descrise doua task-uri. Eu le-as numi "Let's do something for fun!". Astfel sunt prezente pozitiile: developer si designer.
+Mai jos sunt descrise doua task-uri. Eu le-as numi "Let's do something for fun!". Astfel, sunt prezente pozitiile: developer si designer.
 
 Va urez succes si astept solutiile pe mail-ul: `lucavictor220@gmail.com`. Just have fun with it!
 
